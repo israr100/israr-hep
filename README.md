@@ -39,4 +39,4 @@ Short one-line description.
 
 ## Let's connect
 
-[LinkedIn](#) &nbsp;|&nbsp; [Email](mailto:you@example.com) &nbsp;|&nbsp; [CV / Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/israr-hep) &nbsp;|&nbsp; [Email](israr.israr@cern.ch) &nbsp;|&nbsp; [CV / Portfolio](#)
