@@ -21,11 +21,7 @@ I spend my days extracting small signals from enormous, noisy datasets — stati
 
 ## Featured projects
 
-### 📊 NYC Congestion Pricing — Causal Impact Analysis
-Interrupted time-series analysis of MTA ridership to estimate the causal effect of NYC's congestion pricing rollout. Year-over-year decomposition, counterfactual modeling, and clear visual results.
-→ [Repo](#) &nbsp;|&nbsp; [Write-up](#)
-
-### 🤖 [Project Two — e.g. WZ Event Classifier]
+### 🤖 [Project one — e.g. WZ Event Classifier]
 Short one-line description of what it does and the headline result.
 → [Repo](#)
 
