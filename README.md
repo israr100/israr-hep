@@ -23,9 +23,9 @@ I spend my days extracting small signals from enormous, noisy datasets — stati
 
 ### 🤖 [Project one — e.g. WZ Event Classifier]
 Short one-line description of what it does and the headline result.
-→ [Repo](#)
+→ [Repo](https://github.com/israr100/SMQawa)
 
-### 🔬 [Project Three]
+### 🔬 [Project Three - ]
 Short one-line description.
 → [Repo](#)
 
