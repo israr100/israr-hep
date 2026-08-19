@@ -25,10 +25,6 @@ I spend my days extracting small signals from enormous, noisy datasets — stati
 Short one-line description of what it does and the headline result.
 → [Repo](https://github.com/israr100/SMQawa)
 
-### 🔬 [Project Three - ]
-Short one-line description.
-→ [Repo](#)
-
 ---
 
 ## A bit more
